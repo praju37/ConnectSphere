@@ -5,7 +5,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/praju37/ConnectSphere?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/praju37/ConnectSphere?style=for-the-badge)
 
-Welcome to **Connect Sphere**, a modern, full-stack real-time chat platform! 🚀 This application allows users to connect with friends and colleagues through private and group messaging. Built with a powerful **Spring Boot** backend and a dynamic **React** frontend, Connect Sphere delivers a seamless and responsive user experience.
+Welcome to **Connect Sphere**, a modern, full-stack real-time chat platform! 🚀 This application allows users to connect with friends and colleagues through private and group messaging. Built with a powerful backend using **Spring Boot** and a dynamic frontend with **React**, Connect Sphere delivers a seamless and responsive user experience.
 
 ---
 
@@ -21,16 +21,20 @@ Welcome to **Connect Sphere**, a modern, full-stack real-time chat platform! �
 
 ## 🛠️ Technical Stack
 
-### Backend
-* **Core Java:** Java, Spring Boot, Spring Security, Spring Data JPA
+### 🚀 Backend
+The backend is built with the **Spring Boot** framework, providing a robust and scalable foundation for the application.
+* **Core Java:** Java, Spring Boot, Spring Data JPA
+* **Security:** **Spring Security** handles all security features, including secure user authentication and role-based access control.
+* **Real-Time:** **Spring WebSocket** enables the real-time, bidirectional communication needed for the chat functionality.
 * **APIs & ORM:** REST APIs, Hibernate, JPA
 * **Database:** MySQL
 
-### Frontend
+### 🎨 Frontend
+The frontend is built with **React**, a declarative and component-based JavaScript library.
 * **Core:** JavaScript, React, HTML/CSS
-* **Integration:** Axios
+* **Integration:** Axios (commonly used for React-API integration)
 
-### Tools
+### 💻 Tools
 * **Development:** VS Code, IntelliJ, PyCharm
 * **Version Control:** Git, GitHub
 
